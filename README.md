@@ -2,7 +2,7 @@
 
 **Mechatronics Engineer** based in Puebla, México — specializing in embedded systems, IoT, and industrial automation. I build things that bridge hardware and software: connected devices, control systems, and automation solutions for real production environments.
 
-🎓 B.Eng. Mechatronics — UPAEP (9.39 GPA)  
+🎓 B.Eng. Mechatronics — UPAEP (9.40 GPA)  
 🏭 Currently interning at **BENTELER Automotive** deploying automation solutions  
 🌍 C2 English · A1 German · Open to international opportunities (Europe / USA)  
 📜 Certified SOLIDWORKS Professional (CSWP)
